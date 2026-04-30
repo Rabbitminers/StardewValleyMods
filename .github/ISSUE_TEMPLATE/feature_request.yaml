@@ -1,0 +1,48 @@
+﻿name: Feature Request
+description: Suggest an idea or improvement for one of the mods in this collection
+title: "[Feature]: "
+labels: ["enhancement"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to share an idea!
+
+        Suggestions are really helpful for improving the mods and deciding what to work on next. Please fill out the details below so we can understand your request clearly.
+
+  - type: dropdown
+    id: mod_name
+    attributes:
+      label: Which mod is this for?
+      description: Select the mod your suggestion applies to.
+      options:
+        - Where's My Stuff?
+        - A Packet of Lost Crops
+    validations:
+      required: true
+
+  - type: textarea
+    id: feature_description
+    attributes:
+      label: What is your idea?
+      description: Describe the feature or improvement you'd like to see.
+      placeholder: "It would be helpful if the mod could..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposed_solution
+    attributes:
+      label: Suggested approach (optional)
+      description: If you have ideas on how it could work, feel free to share them here.
+      placeholder: "Maybe it could work by..."
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional_context
+    attributes:
+      label: Additional context
+      description: Screenshots, examples, or anything else that might help
