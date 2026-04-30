@@ -1,0 +1,10 @@
+﻿{
+  "Name": "Where's my Stuff!?",
+  "Author": "Rabbitminers",
+  "Version": "%ProjectVersion%",
+  "MinimumApiVersion": "4.1.10",
+  "UniqueID": "Rabbitminers.WheresMyStuff",
+  "Description": "A mod to help you un-lose your shit",
+  "EntryDll": "WheresMyStuff.dll",
+  "UpdateKeys": [ "Nexus:1401" ]
+}

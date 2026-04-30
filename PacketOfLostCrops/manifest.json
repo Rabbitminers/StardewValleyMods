@@ -1,0 +1,10 @@
+﻿{
+  "Name": "A Packet of Lost Crops",
+  "Author": "Rabbitminers",
+  "Version": "%ProjectVersion%",
+  "MinimumApiVersion": "4.1.10",
+  "UniqueID": "Rabbitminers.PacketOfLostCrops",
+  "Description": "A mod to optimize the Stardew Valley networking stack",
+  "EntryDll": "PacketOfLostCrops.dll",
+  "UpdateKeys": [ "Nexus:1401" ]
+}

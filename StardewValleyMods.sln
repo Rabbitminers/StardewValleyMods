@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacketOfLostCrops", "PacketOfLostCrops\PacketOfLostCrops.csproj", "{24CF3EC5-023B-4E8B-89DD-49B10F4F6E1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WheresMyStuff", "WheresMyStuff\WheresMyStuff.csproj", "{D342C855-AADD-41F6-AAC6-BD65381F003C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24CF3EC5-023B-4E8B-89DD-49B10F4F6E1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24CF3EC5-023B-4E8B-89DD-49B10F4F6E1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24CF3EC5-023B-4E8B-89DD-49B10F4F6E1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24CF3EC5-023B-4E8B-89DD-49B10F4F6E1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D342C855-AADD-41F6-AAC6-BD65381F003C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D342C855-AADD-41F6-AAC6-BD65381F003C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D342C855-AADD-41F6-AAC6-BD65381F003C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D342C855-AADD-41F6-AAC6-BD65381F003C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
